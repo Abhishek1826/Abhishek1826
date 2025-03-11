@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek1826
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML CSS Javascript Python SQL MYSQL ORACLE
-- 💞️ I’m looking to start as a basic fresher in an organisation to explore my knowledge and tune my skills. I am very hard working and focused also willing to challenge my self in a fast paced evironment.
+- 👀 I’m interested in Web Development, Fullstck development, Frontend development.
+- 🌱 I’m a certified MERN Stack Developer from EDYODA Digital university
+- 💞️ I’m looking for an Entry level position in an organisation to explore my knowledge and tune my skills. I am very hard working and focused also willing to challenge my self in a fast paced evironment.
 - 📫 Reach me via My email abhishek18697@gmail.com or whatsapp- 8551866162 
 
 <!---
